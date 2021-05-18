@@ -22,7 +22,7 @@ Create a mobile app, where a user can log in through at least two social media f
 
 <hr>
 
-### Technology used the App:
+### Technologies used in the App:
 1. Android Studio
 2. Java
 3. XML
